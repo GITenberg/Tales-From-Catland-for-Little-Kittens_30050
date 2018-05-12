@@ -1,0 +1,40 @@
+_repo: Tales-From-Catland-for-Little-Kittens_30050
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Baker, William Jay
+    gutenberg_agent_id: '34341'
+    url: http://www.gutenberg.org/2009/agents/34341
+  illustrator:
+    agent_name: Billings, Hammatt
+    aliases:
+    - Billings, Charles Howland Hammatt
+    - Billings
+    - Billings, Hammett
+    birthdate: 1818
+    deathdate: 1874
+    gutenberg_agent_id: '32150'
+    url: http://www.gutenberg.org/2009/agents/32150
+    wikipedia: http://en.wikipedia.org/wiki/Hammatt_Billings
+covers:
+- cover_type: archival
+  image_path: 30050-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grimalkin, Tabitha
+    gutenberg_agent_id: '34335'
+    url: http://www.gutenberg.org/2009/agents/34335
+description: Three cats learn important lessons as a result of dealing with fairies.
+gutenberg_issued: '2009-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30050'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcc 'PZ'
+title: Tales From Catland, for Little Kittens
+url: http://www.gutenberg.org/ebooks/30050
