@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '34335'
     url: http://www.gutenberg.org/2009/agents/34335
 description: Three cats learn important lessons as a result of dealing with fairies.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30050#Tales-From-Catland-for-Little-Kittens
 gutenberg_issued: '2009-09-21'
 gutenberg_type: Text
 identifiers:
